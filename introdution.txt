@@ -1,0 +1,18 @@
+* Introdution
+* Por que aprender API
+- Serve para estruturar qualquer aplicação web para os dias de hoje.
+- A principal utilização da API é a troca de informações entre apps e sistemas, tudo de forma padronizada.
+* O que é uma API
+- API é um front-end e o back-end é a base de dados.
+- API só tem a obrigação de buscar a informação e não o tratamento dos dados.
+* JSON
+- O formato JSON (JavaScript Object Notation)
+- É um formato aberto usado como alternativa ao XML.
+- Serve para a transferência de dados estruturados entre um servidor de Web e uma aplicação Web. 
+* Métodos HTTP
+- GET (A API fornece informações)
+- POST (A API recebe informações que deve ou não ser registradas)
+- DELETE (A API recebe identificadores de registros que devem ser apagados)
+- PUT (A API recebe informações para update de um ou mais registros)
+- PATCH (A API recebe informações para update de um registro)
+* Insomnia 
