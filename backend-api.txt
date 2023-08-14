@@ -1,0 +1,9 @@
+(Trilha)
+
+* Inicindo projeto em Node JS
+* Express
+* Criando server
+* GET
+* POST 
+* PUT 
+* DELETE 
