@@ -1,0 +1,15 @@
+{
+    "name":"Camila",
+    "city":"Recife",
+    "telephone": 81987672496,
+    "favorite_books": [
+        "neuromancer",
+        "código limpo",
+        "essencialismo"
+    ],
+    "hobbies": {
+        "semana":"patinação",
+        "weekend":"cinema",
+        "vacations":"viagens"
+    }
+}
