@@ -39,6 +39,20 @@ const newUser = {
     city:"Rio do Sul"
 }
 
+function updateUser(updateUser){
+    fetch(`${url}/1`, {
+        method:"PUT",
+        body:JSON.stringify(updateUser),
+        headers: {
+            "Content-type": "aplication/json; charset=UTF-8"
+        }
+    })
+    .then(response => response.json())
+    .then(data => alertApi.textContent = data)
+    .catch(error => console.error(error))
+}
+
 addUser(newUser)
 getUsers()
 getUser()
+updateUser()
